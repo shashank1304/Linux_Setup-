@@ -16,7 +16,7 @@ This guide provides step-by-step instructions to install and set up **Kali Linux
 
 ## 🚀 Setup Steps
 
-### ✅ Step 1: Download Required Tools
+### ✅  Download Required Tools
 
 1. **VirtualBox**:  
    [https://www.virtualbox.org](https://www.virtualbox.org)
@@ -31,7 +31,7 @@ This guide provides step-by-step instructions to install and set up **Kali Linux
 
 ---
 
-### 💾 Step 2: Install Software
+### 💾 Install Software
 
 1. Run the downloaded **VirtualBox installer** and complete the setup.
 2. Install **7-Zip** for extracting `.7z` files.
@@ -39,7 +39,7 @@ This guide provides step-by-step instructions to install and set up **Kali Linux
 
 ---
 
-### 🛠️ Step 3: Import Kali Linux into VirtualBox
+### 🛠️ Import Kali Linux into VirtualBox
 
 1. Launch **VirtualBox Manager**.
 2. Go to `File > Import Appliance`.
@@ -48,7 +48,7 @@ This guide provides step-by-step instructions to install and set up **Kali Linux
 
 ---
 
-### ▶️ Step 4: Start Kali Linux
+### ▶️ Start Kali Linux
 
 1. After importing, select the Kali VM in VirtualBox.
 2. Click **Start**.
