@@ -40,12 +40,6 @@ This guide provides step-by-step instructions to install and set up **Kali Linux
 ---
 
 ### 🛠️ Import Kali Linux into VirtualBox
-
-1. Launch **VirtualBox Manager**.
-2. Go to `File > Import Appliance`.
-3. Browse and select the extracted `.ova` file.
-4. Click **Next**, then **Import**.
-
 ---
 
 ### ▶️ Start Kali Linux
